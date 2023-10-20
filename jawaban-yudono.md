@@ -1,4 +1,5 @@
-#contoh jawaban
+nim:
+nama:
 
 Salah satu aspek keamanan yang mengkonfirmasi bahwa informasi yang berada dalam sistem jaringan tidak dapat dimodifikasi oleh pihak yang tidak berhak adalah enkripsi data. Dengan menggunakan enkripsi, data dienkripsi dengan kunci kriptografi sehingga hanya pihak yang memiliki kunci yang tepat dapat membaca atau memodifikasi data tersebut.
 
