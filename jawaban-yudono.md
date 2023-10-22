@@ -1,4 +1,4 @@
-nim: 2311490399
+nim: 2311490399\
 nama: Yudono Putro Utomo
 
 1. Salah satu aspek keamanan yang mengkonfirmasi informasi yang berada pada sistem jaringan tidak dapat dimodifikasi oleh pihak yang tidak berhak atas akses tersebut adalah **Integritas data**.
