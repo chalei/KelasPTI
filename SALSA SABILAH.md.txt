@@ -1,0 +1,55 @@
+NIM     : 2322473389
+NAMA    : SALSA SABILAH
+JURUSAN : TEKNIK INFORMASI
+
+
+
+1. salah satu aspek keaman yang mengkonfirmasi informasi yang berada pada sistem jaringan tidak dapat 
+   dimodifikasi oleh pihak yang tidak berhak atas akses adalah
+2. Teknologi Informasi memiliki 3 (Tiga) kekuatan diantaranya adalah
+3. Dengan Cloud computing kita bisa menambah kapasitas penyimpanan data kita tanpa harus membeli 
+   peralatan tambahan merupakan manfaat cloud computing  dari sisi 
+4. Ciri utama computer generasi pertama adalah menggunakan 
+5. kumpulan dari transistor, resistor, kapasitor di sebut
+6. Suatu bentuk ancaman terhadap availability atau ketersediaan sumber daya adalah
+7. Fungsi CPU (Central processing Unit) adalah, kecuali
+8. Fungsi Memory utama adalah 
+9. Cloud Computing yang disediakan untuk masyarakat umum, pengguna bisa tanpa harus membeli
+   peralatan tambahan merupakan manfaat cloud computing dari sisi
+10.Software yang dapat diunduh dan digunakan secara gratis selama waktu tertentu
+   saja merupakan software dengan lisensi 
+11.jelaskan definisi dari SaaS dan Paas
+
+
+  JAWABAN 
+
+1. Authority
+2. - Meningkatkan produktivitas dan efisiensi dalam bekerja,dengan adanya informasi 
+     teknologi pekerjaan dapat dilakukan dengan lebih cepat dan efisien
+   - akses informasi dan komunikasi, teknologi informasi memungkinkan pengguna mengakses
+     informasi dari berbagai sumber dengan mudah dan cepat juga memungkinkan pegguna untuk
+     berkomunikasi dengan orang lain dari belahan dunia dengan mudah dan cepat.
+   - membantu dalam pengambilan keputusan dengan memberikan data yang akurat dan terkini.
+3. Skalablitas
+4. Sirkuit Generasi pertama Komputer : Vacuum tube (Tabung Vakum)
+   Ciri komputer generasi pertama adalah sebagai berikut:
+   a. Sirkuitnya menggunakan vacuum tube ( tabung Vakum)
+   b. Program dibuat dengan bahasa mesin ; ASSEMBLER
+   c. Ukuran fisik komputer sangat besar, Cepat panas
+   d. Proses kurang cepat , Kapasitas penyimpanan kecil
+   e. Memerlukan daya listrik yang besar
+   f. Orientasi pada aplikasi bisnis
+5. Integrated Circuit (IC) 
+6. Serangan Denial of service (DoS)
+7. Sebagai Hiasan bagi komputer
+8. Fungsi utama RAM yaitu untuk mempercepat pemrosesan data pada perangkat. 
+   Semakin besar ruang memori utama, maka semakin bagus performa dari unit komputer tersebut. 
+9. Cloud Computing Public
+10.Shareware
+11. - Pengertian SaaS atau Software as a Service yang bersumber dari Techradar adalah sebuah perangkat
+      lunak yang dijadikan sebagai layanan yang bersifat online, SaaS ini juga disebut sebagai layanan 
+      aplikasi Cloud. SaaS memanfaatkan internet untuk menjalankan aplikasi yang dikelola oleh vendor pihak ketiga.  
+
+   -  PaaS atau Platform as a Service adalah layanan Cloud yang disediakan dalam bentuk platform dan
+      dapat dimanfaatkan pengguna untuk membuat aplikasi di atasnya. PaaS memberikan framework bagi 
+      developer yang dapat mereka bangun dan gunakan untuk membuat aplikasi yang telah disesuaikan.
