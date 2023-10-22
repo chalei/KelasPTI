@@ -1,5 +1,5 @@
-# Nama: Muhammad Azri Virdiansyah
-## NIM: 2322469123
+# Nama: Arya Putra Purnama
+## NIM: 2322490297
 
 1. Integrity : keaslian pesan yang dikirim melalui sebuah jaringan dan dapat dipastikan bahwa informasi yang dikirim tidak dimodifikasi oleh orang yang tidak berhak dalam perjalanan informasi tersebut.
 
