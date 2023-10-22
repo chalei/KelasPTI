@@ -1,7 +1,7 @@
 nim: 2311490399\
 nama: Yudono Putro Utomo
 
-1. Salah satu aspek keamanan yang mengkonfirmasi informasi yang berada pada sistem jaringan tidak dapat dimodifikasi oleh pihak yang tidak berhak atas akses tersebut adalah **Integritas data**.
+1. Salah satu aspek keamanan yang mengkonfirmasi informasi yang berada pada sistem jaringan tidak dapat dimodifikasi oleh pihak yang tidak berhak atas akses terbut adalah : **Authority**
 
 2. Teknologi informasi memiliki 3 (tiga) kekuatan, antara lain:
 
