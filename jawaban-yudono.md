@@ -28,7 +28,7 @@ nama: Yudono Putro Utomo
 
 9. Cloud Computing yang disediakan untuk masyarakat umum, di mana pengguna bisa langsung mendaftar atau memakai layanan yang ada, merupakan definisi dari **Public Cloud**.
 
-10. Software yang dapat diunduh dan digunakan secara gratis selama waktu tertentu saja merupakan software dengan lisensi **trial**.
+10. Software yang dapat diunduh dan digunakan secara gratis selama waktu tertentu saja merupakan software dengan lisensi **Shareware / trial version**.
 
 11. Penjelasan definisi dari SaaS (Software as a Service) dan PaaS (Platform as a Service):
 
