@@ -1,0 +1,28 @@
+NIM     : 2311477570
+NAMA : MIRZA MAULIDA 
+
+1.	Salah satu aspek keamanan yang mengkonfirmasi  informasi yang berada pada system jaringan tidak dapat dimodifikasi  oleh pihak yang tidak berhak atas akses tersebut adalah
+2.	Teknologi informasi memiliki 3 kekuatan diantaranya adalah 
+3.	Dengan cloud computing kita bisa menambah kapasitas penyimpanan data kita tanpa harus membeli peralatan tambahan merupakan manfaat cloud computing dari sisi..
+4.	Ciri utama computer generasi pertama adalah menggunakan :
+5.	Kumpulan dari transistor, resistor, kapasitor disebut:
+6.	Suatu bentuk ancaman terhadap availability atau ketersediaan sumber daya adalah:
+7.	Fungsi CPU (central processing unit) adalah , kecuali:
+8.	Fungsi memory utama adalah :
+9.	Cloud computing yang disediakan untuk masyarakat umum. Pengguna bisa langsung mendaftar ataupun memakai layanan yang ada. Merupakan definisi dari :
+10.	Software yang dapat diunduh dan digunakan secara gratis selama waktu tertentu saja merupakan software  dengan lisensi:
+11.	Jelaskan definisi dari SaaS dan PaaS
+
+Jawaban :
+
+1.	Intergrity
+2.	Dapat memecahkan suatu masalah, membuka kreatifitas, dan meningkatkan efesiensi dalam aktivitas manusia.
+3.	Skalabilitas
+4.	Vacuum tube (tabung hampa) Menerapkan konsep stored program dengan magnetic core storage sebagai memori utama
+5.	Komponen elektronika
+6.	Denial Of Service (DoS)Attack 
+7.	kecuali Sebagai hiasan bagi computer
+8.	Untuk menyimpan data yang akan diolah dan program yang akan dijalankan oleh komputer
+9.	publik cloud 
+10.	Shareware
+11.	SaaS (software as a service) adalah sebuah perangkat lunak yang dijadikan sebagai layanan yang bersifat online, memungkinkan pengguna untuk terhubung dan menggunakan aplikasi berbasis cloud melalui Internet. Contoh umumnya
