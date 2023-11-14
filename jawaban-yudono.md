@@ -1,29 +1,37 @@
-#contoh jawaban
+nim: 2311490399\
+nama: Yudono Putro Utomo
 
-Salah satu aspek keamanan yang mengkonfirmasi bahwa informasi yang berada dalam sistem jaringan tidak dapat dimodifikasi oleh pihak yang tidak berhak adalah enkripsi data. Dengan menggunakan enkripsi, data dienkripsi dengan kunci kriptografi sehingga hanya pihak yang memiliki kunci yang tepat dapat membaca atau memodifikasi data tersebut.
+1. Salah satu aspek keamanan yang mengkonfirmasi informasi yang berada pada sistem jaringan tidak dapat dimodifikasi oleh pihak yang tidak berhak atas akses terbut adalah : **Authority**
 
-Teknologi informasi memiliki tiga kekuatan utama, yaitu:
+2. Teknologi informasi memiliki 3 (tiga) kekuatan, antara lain:
 
-a. Kecepatan: Teknologi informasi memungkinkan pemrosesan dan transfer informasi dengan cepat, memungkinkan akses instan ke data dan sumber daya.
+   - **Kecepatan**: Teknologi informasi memungkinkan pemrosesan dan transfer data secara cepat.
+   - **Kapasitas**: Teknologi informasi dapat menyimpan dan mengelola jumlah data yang besar.
+   - **Ketepatan**: Teknologi informasi memungkinkan proses pengolahan data secara akurat dan tepat.
 
-b. Keterjangkauan: Kemajuan dalam teknologi informasi telah membuatnya lebih terjangkau dan dapat diakses oleh lebih banyak orang.
+3. Dengan cloud computing, kita bisa menambah kapasitas penyimpanan data tanpa harus membeli peralatan tambahan. Ini merupakan manfaat dari cloud computing dalam hal **skalabilitas**.
 
-c. Kemampuan Penyimpanan dan Pengolahan Data: Teknologi informasi memungkinkan penyimpanan dan pengolahan data yang besar dan kompleks, memungkinkan analisis dan pengambilan keputusan yang lebih baik.
+4. Ciri utama komputer generasi pertama adalah **penggunaan tabung hampa (vacuum tube)** sebagai komponen utama dalam sirkuit elektroniknya.
 
-Salah satu manfaat dari cloud computing adalah kemampuan untuk menambah kapasitas penyimpanan data tanpa perlu membeli perangkat keras tambahan. Dalam cloud computing, penyimpanan data dilakukan di pusat data yang dikelola oleh penyedia layanan cloud. Pengguna dapat dengan mudah meningkatkan kapasitas penyimpanan mereka dengan mengonfigurasi pengaturan yang sesuai, tanpa perlu membeli dan mengelola perangkat keras tambahan.
+5. Kumpulan dari transistor, resistor, dan kapasitor disebut **rangkaian elektronik**.
 
-Ciri utama komputer generasi pertama adalah penggunaan tabung hampa sebagai komponen utama. Komputer generasi pertama dikembangkan pada tahun 1940-an dan 1950-an dan menggunakan tabung vakum sebagai elemen penyimpanan dan pemrosesan data.
+6. Suatu bentuk ancaman terhadap availability atau ketersediaan sumber daya adalah **serangan DDoS (Distributed Denial of Service)**.
 
-Kumpulan dari transistor, resistor, kapasitor disebut rangkaian elektronik. Rangkaian elektronik digunakan untuk mengontrol aliran listrik dan melakukan fungsi-fungsi elektronik dalam perangkat elektronik.
+7. Fungsi CPU (Central Processing Unit) adalah:
 
-Bentuk ancaman terhadap ketersediaan sumber daya disebut Denial of Service (DoS) attack. Dalam serangan DoS, penyerang berusaha mengganggu ketersediaan sumber daya dengan membanjiri sistem target dengan lalu lintas jaringan yang berlebihan, sehingga sistem tidak dapat melayani permintaan yang sah.
+   - **Eksekusi instruksi**: CPU menjalankan instruksi-instruksi yang terdapat dalam program komputer.
+   - **Pengambilan data**: CPU mengambil data dari memori dan perangkat input.
+   - **Pemrosesan data**: CPU melakukan operasi matematika dan logika pada data.
+   - **Penyimpanan hasil**: CPU menyimpan hasil pemrosesan kembali ke memori atau perangkat output.
 
-Fungsi CPU (Central Processing Unit) adalah bertanggung jawab untuk mengkoordinasikan dan menjalankan instruksi-instruksi yang diberikan oleh perangkat lunak (software). CPU adalah otak komputer yang melakukan pemrosesan data, mengendalikan operasi perangkat keras, dan menjalankan program-program komputer.
+8. Fungsi Memory Utama adalah **menyimpan data dan instruksi yang sedang diproses oleh CPU**.
 
-Fungsi Memory Utama adalah menyimpan data dan instruksi-instruksi yang sedang digunakan oleh CPU. Memory utama atau RAM (Random Access Memory) digunakan untuk menyimpan data yang dapat diakses secara langsung oleh CPU saat komputer sedang beroperasi.
+9. Cloud Computing yang disediakan untuk masyarakat umum, di mana pengguna bisa langsung mendaftar atau memakai layanan yang ada, merupakan definisi dari **Public Cloud**.
 
-Cloud Computing yang disediakan untuk masyarakat umum dan dapat diakses oleh pengguna dengan mendaftar atau menggunakan layanan yang ada disebut sebagai Public Cloud. Public Cloud merupakan model layanan cloud yang disediakan oleh penyedia layanan cloud kepada pengguna umum melalui internet.
+10. Software yang dapat diunduh dan digunakan secara gratis selama waktu tertentu saja merupakan software dengan lisensi **Shareware / trial version**.
 
-Software yang dapat diunduh dan digunakan secara gratis selama waktu tertentu disebut sebagai software dengan lisensi trial. Lisensi trial memungkinkan pengguna untuk mencoba dan menggunakan software tersebut tanpa membayar, namun dengan batasan waktu atau fitur tertentu. Setelah periode trial berakhir, pengguna mungkin perlu membeli lisensi penuh untuk terus menggunakan software tersebut.
+11. Penjelasan definisi dari SaaS (Software as a Service) dan PaaS (Platform as a Service):
 
-SaaS (Software as a Service) adalah model layanan cloud di mana perangkat lunak atau aplikasi disediakan kepada pengguna melalui internet. Pengguna tidak perlu mengelola infrastruktur atau menjalankan aplikasi di perangkat mereka sendiri. Contoh SaaS adalah aplikasi email seperti Gmail.
+   - **SaaS**: SaaS adalah model layanan cloud di mana sebuah perangkat lunak atau aplikasi disediakan kepada pengguna melalui internet. Pengguna hanya perlu menggunakan aplikasi tersebut tanpa perlu mengelola infrastruktur, pemeliharaan, atau pembaruan perangkat lunak.
+   
+   - **PaaS**: PaaS adalah model layanan cloud di mana sebuah platform pengembangan dan penerapan aplikasi disediakan kepada pengguna melalui internet. PaaS memungkinkan pengguna untuk mengembangkan, menguji, dan menyebarkan aplikasi tanpa perlu mengelola infrastruktur yang mendasarinya.
