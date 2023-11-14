@@ -1,0 +1,46 @@
+NIM :  2314468999
+NAMA : FADIYAH ZULFA
+
+
+                                                                                                                                                                        Soal dan jawaban Quiz
+
+1. Salah satu aspek keamanan yang mengkonfirmasi informasi yang berada pada sistem jaringan tidak dapat dimodifikasi oleh pihak yang tidak berhak atas akses tersebut               Adalah...
+     jawaban : Integrity
+
+2. Teknologi informasi memiliki 3 (tiga) kekuatan diantaranya Adalah..
+      jawaban : 1. Mengakses berbagai jenis informasi. seperti berita, pengetahuan, hingga ilmu pengetahuan melalui internet.
+                            2.  Memudahkan komunikasi antar individu maupun antar perusahaan.
+                            3. Menyelesaikan pekerjaan dengan lebih cepat dan efisien melalu software yang membantu dalam pengelolaan data, pembuatan laporan, atau perencanaan. 
+
+3. Dengan cloud computing kita bisa menambahkan kapasitas penyimpanan data kita tanpa harus membeli peralatan tambahan merupakan manfaat cloud                                                 computing dari sisi..
+      jawaban : Skalabilitas
+
+
+4. Ciri utama komputer generasi pertama adalah menggunakan...
+      jawaban : Vacuum Tube (tabung hampa)
+
+5. Kumpulan dari Transistor, Resistor, Kapasitor disebut...
+      jawaban : Komponen elektronika. Komponen elektronika terdiri dari 2 komponen, yaitu : komponen aktif dan komponen pasif.
+                            Pransistor masuk ke dalam komponen aktif, sedangkan resistor dan kapasitor masuk ke dalam komponen pasif.
+
+
+
+6. Suatu bentuk ancaman terhadap availability atau ketersediaan sumber daya adalah...
+      jawaban : Bentuk ancaman terhadap ketersediaan (availability), dimana data dirusak sehingga tidak dapat digunakan lagi. Perusakan fisik, contohnya : perusakan harddisk,                              perusakan media penyimpanan lainnya,pemotongan kabel jaringan.
+
+7. Fungsi CPU ( Central Processing Unit) adalah, kecuali...
+      jawaban : Kecuali mempermudah memilih pilihan.
+
+8. Fungsi memory utama adalah...
+      jawaban : Mempercepat pemrosesan data pada perangkat
+
+9. Cloud computing yang disediakan untuk masyarakat umum. pengguna bisa langsung mendaftar atau pun memakai layanan yang ada merupakan definisi dari...
+      jawaban : Public Cloud 
+
+
+10. Software yang dapat diunduh dan digunakan secara gratis selama waktu tertentu saja merupakan software dengan lisensi...
+        jawaban : Shareware adalah software yang dapat diunduh dan digunakan secara gratis tapi terdapat batas waktu tertentu dalam penggunaannya.
+
+11. Jelaskan definisi dari SaaS  dan Paas...
+         jawaban : - Pengertian SaaS ( Software as a Service ) yang bersumber dari Techradar adalah sebuah perangkat lunak yang dijadikan sebagai layanan yang                                                                           bersifat online, SaaS ini juga disebut sebagai layanan aplikasi Cloud.
+                              -   PaaS ( Platform as a Service ) adalah layanan Cloud yang disediakan dalam bentuk platform dan dapat dimanfaatkan pengguna untuk membuat                                                                    aplikasi di atasnya.
