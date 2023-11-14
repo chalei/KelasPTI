@@ -1,0 +1,33 @@
+NIM		: 2311477280
+NAMA		: ITA NOVIANI
+
+SOAL
+1.	Salah satu aspek keamanan yang mengkonfirmasi informasi yang berada pada sistem jaringan tidak dapat dimodifikasi oleh pihak yang tidak berhak atas akses tersebut adalah?
+2.	Teknologi informasi memiliki 3 kekuatan diantaranya adalah?
+3.	Dengan cloud computing kita bisa menambah kapasitas penyimpanan data kita tanpa harus membeli peralatan tambahan merupakan manfaat cloud computing dari sisi?
+4.	Ciri utama computer generasi pertama adalah menggunakan?
+5.	Kumpulan dari transistor, resistor, kapasitor, disebut?
+6.	Suatu bentuk ancaman terhadap availability atau ketersediaan sumber daya adalah?
+7.	Fungsi CPU (Central Processing Unit) adalah, kecuali?
+8.	Fungsi memory utama adalah?
+9.	Cloud Computing yang disediakan untuk masyarakat umum. Pengguna bisa langsung mendaftar ataupun memakai layanan yang ada. Merupakan definisi dari?
+10.	Software yang dapat diunduh, dan digunakan secara gratis selama waktu tertentu saja merupakan software dengan lisensi?
+11.	Jelaskan definisi dari SaaS dan PaaS!
+
+ 
+JAWABAN
+1.	Integritas
+2.	Automatisasi : Teknologi Informasi memungkinkan otomatisasi proses bisnis yang dapat meningkatkan efisiensi dan produktivitas.
+Akses Informasi: Teknologi Informasi memungkinkan akses mudah ke informasi dari berbagai sumber.
+Komunikasi: Teknologi Informasi memfasilitasi komunikasi yang lebih cepat dan efisien.
+3.	Skalabilitas
+4.	Tabung vakum, ukuran besar, pemrograman dalam Bahasa mesin, kecepatan rendah, rentan terhadap kegagalan.
+5.	Komponen elektronika
+6.	DDoS (Distributed Denial of Service) Attack, merupakan serangan yang menyebabkan lalu lintas normal menjadi penuh atau overload.
+7.	CPU tidak berfungsi sebagai perangkat penyimpanan data jangka pajang, bukan alat untuk menyimpan file atau data secara permanen.
+Fungsi CPU, yaitu: eksekusi intruksi, pengolahan data, pengendalian perangkat keras, manajemen perintah.
+8.	Untuk menyimpan data yang diperlukan oleh CPU, serta memiliki akses cepat dan sifat sementara yang memungkinkan komputer beroperasi dengan efisien.
+9.	Public cloud
+10.	Shareware 
+11.	SaaS (Software as a service) adalah perangkat lunak yang dijadikan sebagai layanan yang bersifat online. Contoh beberapa perusahaan yang bergerak pada layanan SaaS, yaitu: Google, Cisco, Office 365, Adobe Creative Cloud.
+PaaS (Platform as a service) adalah layanan yang berbentuk sebuah platform dan dapat dimanfaatkan pengguna untuk membuat aplikasi diatasnya. Beberapa perusahaan yang bergerak pada layanan PaaS, yaitu: Amazon, Windows, Google, Apache, dll.
